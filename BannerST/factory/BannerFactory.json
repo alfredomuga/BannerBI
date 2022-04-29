@@ -1,0 +1,9 @@
+{
+	"name": "BannerFactory",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9cee440-64e3-4916-a028-205189cc2f42",
+		"tenantId": "3bb118c0-bb1e-4418-87e5-d176550897cb"
+	}
+}
